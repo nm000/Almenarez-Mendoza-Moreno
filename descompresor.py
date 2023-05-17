@@ -1,3 +1,4 @@
+import sys
 from mainDecompressor import decompress
 
 file_path_source2 = sys.argv[1]
